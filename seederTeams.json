@@ -1,0 +1,74 @@
+[
+    {
+    "id": 2,
+    "name": "Don Bosco",
+    "short_name": "DB",
+    "logo": "https://res.cloudinary.com/tablonimus/image/upload/v1670968634/suelApp/xzso59bfdmcumassbsob.png",
+    "place": "Mendoza",
+    "category": "A1",
+    "Matches": []
+    },
+    {
+    "id": 3,
+    "name": "Cementista",
+    "short_name": "Cem",
+    "logo": "https://res.cloudinary.com/tablonimus/image/upload/v1670968700/suelApp/qlu1hxtvflrv36vn7k2c.png",
+    "place": "Las Heras",
+    "category": "A1",
+    "Matches": []
+    },
+    {
+    "id": 1,
+    "name": "Regatas",
+    "short_name": "Reg",
+    "logo": "https://res.cloudinary.com/tablonimus/image/upload/v1670968536/suelApp/fualz4pw6xq3f63audso.png",
+    "place": "Mendoza",
+    "category": "A1",
+    "Matches": []
+    },
+    {
+    "id": 4,
+    "name": "Talleres",
+    "short_name": "Tal",
+    "logo": "https://res.cloudinary.com/tablonimus/image/upload/v1670968969/suelApp/f97ilcq3nuggpbq8iv32.png",
+    "place": "Godoy Cruz",
+    "category": "A1",
+    "Matches": []
+    },
+    {
+    "id": 5,
+    "name": "Alianza Godoy Cruz",
+    "short_name": "AGC",
+    "logo": "https://res.cloudinary.com/tablonimus/image/upload/v1670970883/suelApp/g7zkvbzxxz67jyoq2vxo.png",
+    "place": "Godoy Cruz",
+    "category": "FEM",
+    "Matches": []
+    },
+    {
+    "id": 6,
+    "name": "Cementista",
+    "short_name": "CemF",
+    "logo": "https://res.cloudinary.com/tablonimus/image/upload/v1670970956/suelApp/bg06ppfxoxdhg01jxco4.png",
+    "place": "Las Heras",
+    "category": "FEM",
+    "Matches": []
+    },
+    {
+    "id": 7,
+    "name": "Municipal Maipú A",
+    "short_name": "MAI",
+    "logo": "https://res.cloudinary.com/tablonimus/image/upload/v1671033934/suelApp/vfqri8kstwposjosjqjn.png",
+    "place": "Maipú",
+    "category": "FEM",
+    "Matches": []
+    },
+    {
+    "id": 8,
+    "name": "Las Pumas",
+    "short_name": "PUM",
+    "logo": "https://res.cloudinary.com/tablonimus/image/upload/v1671034002/suelApp/fee2g3cyghmvgjkx4pyl.png",
+    "place": "Godoy cruz",
+    "category": "FEM",
+    "Matches": []
+    }
+    ]
