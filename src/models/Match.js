@@ -23,11 +23,11 @@ module.exports = (sequelize) => {
       },
       local_score: {
         type: DataTypes.STRING,
-        defaultValue: "0",
+        defaultValue: "-",
       },
       visitor_score: {
         type: DataTypes.STRING,
-        defaultValue: "0",
+        defaultValue: "-",
       },
       category: {
         type: DataTypes.STRING,
