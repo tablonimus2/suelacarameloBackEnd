@@ -16,7 +16,9 @@ module.exports = (sequelize) => {
 
       images: {
         type: DataTypes.ARRAY(DataTypes.STRING),
+        defaultValue: []
       },
+      
       videos: {
         type: DataTypes.STRING,
       },
