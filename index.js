@@ -24,7 +24,7 @@ const {preloadNotice} = require ("./src/controllers/noticesControllers")
 
 // Syncing all the models at once.
 
-conn.sync({ force: true }).then(() => { 
+conn.sync({ force: false }).then(() => { 
   preloadNotice()
   server.listen(port, () => {
     console.log(`Listening at ${port}`); // eslint-disable-line no-console
